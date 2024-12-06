@@ -1,8 +1,8 @@
-# IMDB Movie Review Sentiment Analysis using RNNs
+# IMDB Movie Review Sentiment Analysis using RNNs and LSTMs
 
 ## Project Overview
 
-This project implements a Recurrent Neural Network (RNN) model to predict sentiment (positive/negative) from IMDB movie reviews. The solution explores various neural network architectures and text preprocessing techniques to optimize sentiment classification performance.
+This project implements Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) models to predict sentiment (positive/negative) from IMDB movie reviews. The solution explores various neural network architectures and text preprocessing techniques to optimize sentiment classification performance.
 
 ## Key Features
 
